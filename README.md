@@ -11,8 +11,8 @@
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-org/odoo-mcp-server.git
-   cd odoo-mcp-server
+   git clone https://github.com/onlybets/odoo-mcp-server-unofficial.git
+   cd odoo-mcp-server-unofficial
    ```
 
 2. **Configure credentials:**
